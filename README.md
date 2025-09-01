@@ -23,7 +23,7 @@ Front-End Developer with **6 years of experience** building high-performance, sc
 ##  Professional Experience
 
 ### Robert Bosch Engineering & Business Solutions — Front-End Developer
-    Bangalore, India | **Feb 2023 – Present**  
+Bangalore, India | Feb 2023 – Present
 - Built **React.js + TypeScript dashboards** for IoT-based automotive platforms, enabling real-time monitoring and predictive analytics.  
 - Improved application speed by **30%** through **lazy loading, caching, and code-splitting**.  
 - Designed **data visualization modules** with D3.js and Recharts, adopted by **1000+ enterprise users**.  
@@ -31,7 +31,7 @@ Front-End Developer with **6 years of experience** building high-performance, sc
 - Integrated **REST/GraphQL APIs** for scalable data flow.
 
 ### Amazon Development Center — Front-End Engineer
-    Bangalore, India | **July 2019 – Feb 2022**  
+Bangalore, India | July 2019 – Feb 2022
 - Delivered **customer-facing UI modules** for Amazon Marketplace using React & Redux.  
 - Optimized checkout experience, **boosting load speed by 40%** and reducing bounce rates.  
 - Led **A/B testing implementations**, driving higher user engagement and conversions.  
@@ -39,7 +39,7 @@ Front-End Developer with **6 years of experience** building high-performance, sc
 - Collaborated with UX/UI teams to deliver **pixel-perfect, mobile-first designs**.
 
 ### HCL Technologies — Software Engineer (UI/Front-End)
-    Bangalore, India | **Sept 2018 – June 2019**  
+Bangalore, India | Sept 2018 – June 2019
 - Built **Angular-based applications** for financial services clients.  
 - Created **reusable modular components**, enhancing maintainability and scalability.  
 - Ensured **WCAG accessibility compliance** and cross-browser compatibility.  
