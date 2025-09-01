@@ -1,15 +1,15 @@
-# 👩‍💻 Harshitha | Front-End Developer
+#  Harshitha | Front-End Developer
 
-📍 Bangalore, India | 📧 harshitharachamadugu@gmail.com | 💼 [LinkedIn](#) | 🌐 [Portfolio](#)
+Bangalore, India | 📧 harshitharachamadugu@gmail.com
 
 ---
 
-## 🚀 About Me
+##  About Me
 Front-End Developer with **6 years of experience** building high-performance, scalable, and user-centric web applications. Expert in **React.js, Angular, TypeScript, Redux, and UI frameworks**, with a proven track record of **improving performance, optimizing UX, and delivering enterprise-level solutions**. Adept at working in **Agile/Scrum teams**, collaborating with designers, and integrating cloud-native solutions (AWS/Azure).
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 - **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React.js, Angular, Next.js, jQuery  
 - **UI/UX & Styling:** HTML5, CSS3, TailwindCSS, Bootstrap, Material-UI, SASS  
 - **State Management:** Redux, Context API, NgRx  
@@ -20,10 +20,10 @@ Front-End Developer with **6 years of experience** building high-performance, sc
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### Robert Bosch Engineering & Business Solutions — Front-End Developer
-📍 Bangalore, India | **Feb 2023 – Present**  
+    Bangalore, India | **Feb 2023 – Present**  
 - Built **React.js + TypeScript dashboards** for IoT-based automotive platforms, enabling real-time monitoring and predictive analytics.  
 - Improved application speed by **30%** through **lazy loading, caching, and code-splitting**.  
 - Designed **data visualization modules** with D3.js and Recharts, adopted by **1000+ enterprise users**.  
@@ -31,7 +31,7 @@ Front-End Developer with **6 years of experience** building high-performance, sc
 - Integrated **REST/GraphQL APIs** for scalable data flow.
 
 ### Amazon Development Center — Front-End Engineer
-📍 Bangalore, India | **July 2019 – Feb 2022**  
+    Bangalore, India | **July 2019 – Feb 2022**  
 - Delivered **customer-facing UI modules** for Amazon Marketplace using React & Redux.  
 - Optimized checkout experience, **boosting load speed by 40%** and reducing bounce rates.  
 - Led **A/B testing implementations**, driving higher user engagement and conversions.  
@@ -39,7 +39,7 @@ Front-End Developer with **6 years of experience** building high-performance, sc
 - Collaborated with UX/UI teams to deliver **pixel-perfect, mobile-first designs**.
 
 ### HCL Technologies — Software Engineer (UI/Front-End)
-📍 Bangalore, India | **Sept 2018 – June 2019**  
+    Bangalore, India | **Sept 2018 – June 2019**  
 - Built **Angular-based applications** for financial services clients.  
 - Created **reusable modular components**, enhancing maintainability and scalability.  
 - Ensured **WCAG accessibility compliance** and cross-browser compatibility.  
@@ -47,18 +47,19 @@ Front-End Developer with **6 years of experience** building high-performance, sc
 
 ---
 
-## 🎓 Education
-**Bachelor of Technology (B.Tech), Computer Science**  
-[Your University], [Graduation Year]
+## Education
+**Master in Business Administration (M.B.A), Project Management**  
+  BSBI, Germany, 2023
+**Bachelor of Technology (B.Tech), Electronics and Communications Engineering (E.C.E)**  
+ GPREC, India, 2018
+---
+
+## Key Achievements
+- Delivered Bosch dashboards used by **1000+ global engineers**.  
+- Improved Amazon checkout UI, contributing to **higher revenue growth**.  
+- Awarded at HCL for **delivering Angular solutions ahead of schedule with zero P1 defects**.
 
 ---
 
-## 🏆 Key Achievements
-- 🚀 Delivered Bosch dashboards used by **1000+ global engineers**.  
-- 🚀 Improved Amazon checkout UI, contributing to **higher revenue growth**.  
-- 🚀 Awarded at HCL for **delivering Angular solutions ahead of schedule with zero P1 defects**.
-
----
-
-## 📫 Contact Me
-💌 **harshitharachamadugu@gmail.com**
+## Contact Me
+ **harshitharachamadugu@gmail.com**
