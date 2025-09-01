@@ -48,9 +48,9 @@ Front-End Developer with **6 years of experience** building high-performance, sc
 ---
 
 ## Education
-**Master in Business Administration (M.B.A), Project Management**  
+Master in Business Administration (M.B.A), Project Management  
   BSBI, Germany, 2023
-**Bachelor of Technology (B.Tech), Electronics and Communications Engineering (E.C.E)**  
+Bachelor of Technology (B.Tech), Electronics and Communications Engineering (E.C.E)
  GPREC, India, 2018
 ---
 
